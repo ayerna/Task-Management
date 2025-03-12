@@ -21,7 +21,12 @@ React
 
 ## 📸 Screenshots
 
-TaskFlow Screenshots
+![Alt text](https://github.com/ayerna/TaskFlow/blob/main/taskFlow%20pics/1.png)
+![Alt text](https://github.com/ayerna/TaskFlow/blob/main/taskFlow%20pics/2.png)
+![Alt text](https://github.com/ayerna/TaskFlow/blob/main/taskFlow%20pics/3.png)
+![Alt text](https://github.com/ayerna/TaskFlow/blob/main/taskFlow%20pics/4.png)
+![Alt text](https://github.com/ayerna/TaskFlow/blob/main/taskFlow%20pics/5.png)
+![Alt text](https://github.com/ayerna/TaskFlow/blob/main/taskFlow%20pics/6.png)
 
 ## 🛠️ Technology Stack
 
